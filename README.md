@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi 👋, I am Jason Yu
 
-<!--
-**jiajun2001/jiajun2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on ARM Architecture Simulation
+- 🎓 Graduated from the University of Adelaide majoring in Computer Science
 
-Here are some ideas to get you started:
+💬 **Ask me about:**  
+- Instruction set simulation (ARM / RISC-V)  
+- Performance optimization techniques  
+- C/C++ low-level programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Technical Skills:**  
+- **Languages:** C/C++ | ARM Assembly | RISC-V Assembly | Python | Java  
+- **Areas of Expertise:** Computer Architecture | Instruction Set Simulation | Performance Optimization | Low-Level Systems  
+
+📫 **How to reach me:** jiajunyu@yahoo.com
+
+⚡ **Fun fact:** In 2006, TIME Magazine named "**You**" as the Person of the Year — celebrating the rise of user-generated content (YouTube, Wikipedia, blogs).
