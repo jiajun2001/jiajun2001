@@ -1,4 +1,4 @@
-## Hi 👋, I am Jason Yu
+<h1 align="center">Hi 👋, I am Jason Yu</h1>
 
 - 🔭 I’m currently working on ARM Architecture Simulation
 - 🎓 Graduated from the University of Adelaide majoring in Computer Science
