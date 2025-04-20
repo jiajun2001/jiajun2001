@@ -9,6 +9,8 @@
 
 📫 **How to reach me:** jiajunyu@yahoo.com
 
+👨‍💻 **Personal Blog:** https://jiajun2001.github.io/
+
 ⚡ **Fun fact:** In 2006, TIME Magazine named "**You**" as the Person of the Year.
 
 <h3 align="left">Languages and Tools:</h3>
